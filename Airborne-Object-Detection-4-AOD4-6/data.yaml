@@ -1,0 +1,15 @@
+names:
+- airplane
+- bird
+- drone
+- helicopter
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: air-borne-objects
+  url: https://universe.roboflow.com/scaai-research-internship/air-borne-objects/dataset/6
+  version: 6
+  workspace: scaai-research-internship
+test: ../test/images
+train: Airborne-Object-Detection-4-AOD4-6/train/images
+val: Airborne-Object-Detection-4-AOD4-6/valid/images
